@@ -1,6 +1,6 @@
 # GEOG458 Lab 2
 
-![Map Image](img\esiangkam_tweetmap.png)
+![Map Image](img/esiangkam_tweetmap.png)
 
 This lab assignment used Twitter API in order to scrape for geo-tagged tweets. I decided to filter these tweets by keyword, and since "#BBB21" was trending with one million tweets worldwide, I thought it would be interesting to examine where people were tweeting about this hashtag.
 
